@@ -1,14 +1,7 @@
 voila
 voila-topbar
 ipykernel
-pandas
-bokeh
-bqplot
 ipympl
-jupyterlab-fasta
-matplotlib
-scipy
-vega_datasets
-ipyvolume
 ipywidgets
 malariagen_data
+jupyterlab
