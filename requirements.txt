@@ -1,7 +1,5 @@
 voila
-voila-topbar
 ipykernel
-ipympl
 ipywidgets
 malariagen_data
 jupyterlab
